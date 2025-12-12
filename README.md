@@ -1,16 +1,24 @@
-## Hi there 👋
+# Hi, I’m Mark 👋
 
-<!--
-**markprograms400/markprograms400** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I’m a **Computer Science student majoring in Cybersecurity & Privacy** at the University of Technology Sydney (UTS).
 
-Here are some ideas to get you started:
+I’m currently working as a **STEM & Coding Instructor**, where I teach **Python** and introductory programming concepts to students. This role has helped me strengthen my technical fundamentals, communication skills, and ability to explain complex ideas clearly.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## What I’m focusing on
+- Improving my Python programming skills  
+- Learning more about cybersecurity and secure systems  
+- Building small, practical coding projects  
+- Developing strong problem-solving habits  
+
+## Languages & Tools
+- Python  
+- Processing  
+- JavaScript (basic)  
+- Git & GitHub  
+
+## Goals
+- Build a solid portfolio of programming projects  
+- Gain industry experience through internships  
+- Continue learning and growing as a computer science student  
+
+Thanks for stopping by — feel free to check out my repositories!
