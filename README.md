@@ -2,7 +2,7 @@
 
 I’m a **Computer Science student majoring in Cybersecurity & Privacy** at the University of Technology Sydney (UTS).
 
-I’m currently working as a **STEM & Coding Instructor**, where I teach **Python** and introductory programming concepts to students. This role has helped me strengthen my technical fundamentals, communication skills, and ability to explain complex ideas clearly.
+I’m currently working as a **Lead Coding Instructor**, where I teach **Python** and introductory programming concepts to students. This role has helped me strengthen my technical fundamentals, communication skills, and ability to explain complex ideas clearly.
 
 ## What I’m focusing on
 - Improving my Python programming skills  
@@ -13,7 +13,8 @@ I’m currently working as a **STEM & Coding Instructor**, where I teach **Pytho
 ## Languages & Tools
 - Python  
 - Processing  
-- JavaScript (basic)  
+- JavaScript (basic)
+- SQL  
 - Git & GitHub  
 
 ## Goals
